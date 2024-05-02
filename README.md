@@ -23,4 +23,15 @@ Ensure you have Flutter installed on your machine. To install Flutter, follow th
    ```bash
    git clone https://github.com/yourusername/note-summarizer-app.git
 2. Paste your Gemini API key to lib/constants.dart file.
-3. Run ```bash flutter pub get
+3. Run
+   ```bash
+   flutter pub get
+   ```
+   Update Packages: If you need to update the packages to their latest versions, you can run:
+   ```bash
+   flutter pub upgrade
+   ```
+4. Run the App. To run the app on a connected device or an emulator, use the following command:
+   ```bash
+   flutter run
+   ```
