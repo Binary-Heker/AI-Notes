@@ -22,7 +22,11 @@ Ensure you have Flutter installed on your machine. To install Flutter, follow th
 1. Clone the repository:
    ```bash
    git clone https://github.com/Binary-Heker/AI-Notes.git
+
+   
 2. Paste your Gemini API key to lib/constants.dart file.
+
+
 3. Run
    ```bash
    flutter pub get
@@ -31,6 +35,8 @@ Ensure you have Flutter installed on your machine. To install Flutter, follow th
    ```bash
    flutter pub upgrade
    ```
+
+
 4. Run the App. To run the app on a connected device or an emulator, use the following command:
    ```bash
    flutter run
