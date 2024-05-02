@@ -21,7 +21,7 @@ Ensure you have Flutter installed on your machine. To install Flutter, follow th
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/note-summarizer-app.git
+   git clone https://github.com/Binary-Heker/AI-Notes.git
 2. Paste your Gemini API key to lib/constants.dart file.
 3. Run
    ```bash
